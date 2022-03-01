@@ -1,2 +1,2 @@
-# Birthday-Card-Collection---HackerRank
+# HackerRank-Birthday-Card-Collection
  
